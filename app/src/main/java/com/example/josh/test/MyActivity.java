@@ -15,6 +15,7 @@ public class MyActivity extends Activity {
 
         //onCreate
         //Extra comment
+        //Adding to master branch
     }
 
 
