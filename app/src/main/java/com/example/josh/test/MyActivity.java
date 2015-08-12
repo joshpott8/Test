@@ -14,6 +14,7 @@ public class MyActivity extends Activity {
         setContentView(R.layout.activity_my);
 
         //onCreate
+        //Extra comment
     }
 
 
